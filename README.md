@@ -24,7 +24,7 @@ To use these exercise files, you must have the following installed:
 1. For Chapter 5, restart the kernel to stop the dashboard from running on port 8050.
 
 ## Instructor
-Nikiya Simpson
+Nikiya Simpson 1
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nikiya-simpson).
 
